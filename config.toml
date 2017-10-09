@@ -2,3 +2,13 @@ baseURL = "http://eamena.org/"
 languageCode = "en-us"
 title = "EAMENA Database Docs"
 theme = "docdock"
+
+[Languages]
+[Languages.en]
+title = "EAMENA Database Docs"
+weight = 1
+
+[Languages.ar]
+
+title = "قاعدة بيانات يامينا"
+weight = 2
