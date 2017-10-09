@@ -1,0 +1,4 @@
+baseURL = "http://eamena.org/"
+languageCode = "en-us"
+title = "EAMENA Database Docs"
+theme = "docdock"
